@@ -26,7 +26,7 @@ It fetches real-time cryptocurrency data such as **market cap, price, available 
 
 ## 📸 Screenshot
 
-(./crypto.png)
+![Crypto App UI](./src/assets/crypto.png)
 
 ---
 
